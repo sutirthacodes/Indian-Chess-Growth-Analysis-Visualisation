@@ -1,4 +1,4 @@
-^Indian-Chess-Growth-Analysis-Visualisation
+Indian-Chess-Growth-Analysis-Visualisation
 
 #Project Description
 
