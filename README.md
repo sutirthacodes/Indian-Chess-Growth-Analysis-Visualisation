@@ -1,4 +1,4 @@
-Indian-Chess-Growth-Analysis-Visualisation
+Indian Chess Growth Analysis & Visualisation
 
 #Project Description:
 This repository contains a comprehensive analysis of Indian chess statistics over the past decade (2013-2023), focusing on:
