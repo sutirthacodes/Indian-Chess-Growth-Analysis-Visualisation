@@ -1,7 +1,6 @@
 Indian-Chess-Growth-Analysis-Visualisation
 
 #Project Description
-
 This repository contains a comprehensive analysis of Indian chess statistics over the past decade (2013-2023), focusing on:
 -The exponential growth of Indian Grandmasters (GMs)
 -Regional distribution of chess talent (with Tamil Nadu as the epicenter)
@@ -25,7 +24,6 @@ Visualizations:
 
 
 #Visualization Examples
-
 Chart Type       	Description	                  Example
 Line Plot	        GM Growth Over Time	          https://gm_growth_line.png
 Pie Chart   	    State-wise Distribution	      https://state_distribution_pie.png
@@ -54,22 +52,21 @@ pip install -r requirements.txt
 -BeautifulSoup4
 
 #Usage
-
 Run the analysis script:
 python
 python indian_chess_analysis.py
-This will:
+This will
 -Collect data (using mock data in this example)
 -Generate all visualizations
 
 File Structure
 text
 Indian-Chess-Growth-Analysis-Visualisation/
-├── chess_data_html/          # Raw data in HTML format
-├── indian_chess_analysis.py  # Main analysis script
-├── requirements.txt          # Dependency list
-├── README.md                 # This file
-└── *.png                     # Generated visualization files
+chess_data_html/          # Raw data in HTML format
+indian_chess_analysis.py  # Main analysis script
+requirements.txt          # Dependency list
+README.md                 # This file
+*.png                     # Generated visualization files
 
 #Future Enhancements
 -Connect to real chess APIs (Lichess, Chess.com, FIDE)
